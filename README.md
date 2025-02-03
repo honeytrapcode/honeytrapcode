@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @honeytrapcode / Ben
-- 👀 I’m interested in ... Data
+- 👀 I’m interested in ... AI, Robotics and Physics.
 - 🌱 I’m currently learning ... Python, SQL and PowerBI
-- 💞️ I’m looking to collaborate on ... Real-world streaming projects (anything spotify related!)
+- 💞️ I’m looking to collaborate on ... Thermal phyics simulators, AI Models.
 - 📫 How to reach me ... benjaminhughes13@live.co.uk
 - 😄 Pronouns: ... He/Him
 
