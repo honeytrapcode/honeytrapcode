@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @honeytrapcode / Ben
-- 👀 I’m interested in ... AI and Climate Physics.
+- 👀 I’m interested in ... AI, Automation and Climate Physics.
 - 🌱 I’m currently learning ... Supervised ML Models.
 - 💞️ I’m looking to collaborate on ... Thermal phyics simulators, AI Models.
 - 📫 How to reach me ... benjaminhughes13@live.co.uk
