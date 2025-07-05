@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @honeytrapcode / Data River / Ben
-- 👀 I’m interested in ... AI, Robotics/Automation and Climate Physics.
+- 👋 Hi, I’m @honeytrapcode / Ben
+- 👀 I’m interested in ... Advanced ML, Climate Modelling.
 - 🌱 I’m currently learning ... Supervised ML Models, NLP Models.
-- 💞️ I’m looking to collaborate on ... Thermal phyics simulators.
-- 📫 How to reach me ... ben@datariver.uk
+- 💞️ I’m looking to collaborate on ... Physics Informed Neural Networks.
+- 📫 How to reach me ... benjaminhughes13@live.co.uk
 - 😄 Pronouns: ... He/Him
 
 <!---
